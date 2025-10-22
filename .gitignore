@@ -1,0 +1,9 @@
+# Ignore OCT registration folder
+*OCTRegistration/
+
+# Ignore heavy data files
+*.nii
+*.AIM
+
+# Ignore vscode settings folder
+*.vscode/
