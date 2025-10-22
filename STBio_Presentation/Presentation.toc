@@ -1,0 +1,5 @@
+\beamer@sectionintoc {2}{Introduction}{4}{0}{1}
+\beamer@sectionintoc {3}{Methods}{8}{0}{2}
+\beamer@sectionintoc {4}{Results and Discussion}{10}{0}{3}
+\beamer@sectionintoc {5}{Conclusions}{12}{0}{4}
+\beamer@sectionintoc {7}{Appendix}{16}{1}{5}
