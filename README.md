@@ -12,18 +12,20 @@ While elastix is widely used in medical imaging, this demo repurposes it for mat
 
 Here’s a breakdown of the key files/folders you’ll find:
 
-**Elastix**/
-├── **ElastixDemo**/
-│ ├── **Sample**/ – Folder containing your scans and results of RegisterSample.py
-│ │ └── *TransformParameters.0.txt* – Resulting parameter map
-│ ├── *Elastix_Demo.ipynb* – General demo of Elastix
-│ ├── *RegisterSample.py* – Elastix registration applied to experimental case
-│ ├── *TransformParameters.0.txt* – First parameter map resulting from Elastix_Demo.ipynb
-│ └── *TransformParameters.1.txt* – Second parameter map resulting from Elastix_Demo.ipynb
-├── **STBio_Presentation**/ – Presentation done during the STBio meeting
-├── *.gitignore* – Ignoring large files
-├── *LICENSE* – MIT license file
-└── *README.md* – this file
+```
+Elastix/
+├── ElastixDemo/
+│ ├── Sample/                       – Folder containing your scans and results of RegisterSample.py
+│ │ └── TransformParameters.0.txt   – Resulting parameter map
+│ ├── Elastix_Demo.ipynb            – General demo of Elastix
+│ ├── RegisterSample.py             – Elastix registration applied to experimental case
+│ ├── TransformParameters.0.txt     – First parameter map resulting from Elastix_Demo.ipynb
+│ └── TransformParameters.1.txt     – Second parameter map resulting from Elastix_Demo.ipynb
+├── STBio_Presentation/             – Presentation done during the STBio meeting
+├── .gitignore                      – Ignoring large files
+├── LICENSE                         – MIT license file
+└── README.md                       – This file
+```
 
 ## 🛠 Getting started / Installation
 
